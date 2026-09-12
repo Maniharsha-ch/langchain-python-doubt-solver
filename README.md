@@ -1,5 +1,10 @@
 # AI Python Doubt Solver using LangChain
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
+![Gemini](https://img.shields.io/badge/Google-Gemini-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 An AI-powered command-line chatbot that answers Python programming questions using LangChain and Google's Gemini language model.
 
 ## Demo
