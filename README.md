@@ -2,6 +2,10 @@
 
 An AI-powered command-line chatbot that answers Python programming questions using LangChain and Google's Gemini language model.
 
+## Demo
+
+![AI Python Doubt Solver Demo](AI-Response.png)
+
 ## Project Overview
 
 The AI Python Doubt Solver helps beginners understand Python concepts by providing simple explanations, examples, and beginner-friendly answers to programming questions.
